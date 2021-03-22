@@ -1,0 +1,75 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon.eot?49gpnd');
+  src:  url('../fonts/icomoon.eot?49gpnd#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?49gpnd') format('truetype'),
+    url('../fonts/icomoon.woff?49gpnd') format('woff'),
+    url('../fonts/icomoon.svg?49gpnd#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-hours-support:before {
+  content: "\e900";
+}
+.icon-camera:before {
+  content: "\e901";
+}
+.icon-credit-card:before {
+  content: "\e902";
+}
+.icon-digital-watch:before {
+  content: "\e903";
+}
+.icon-game-controller:before {
+  content: "\e904";
+}
+.icon-headphones:before {
+  content: "\e905";
+}
+.icon-laptop:before {
+  content: "\e906";
+}
+.icon-mobile-phone:before {
+  content: "\e907";
+}
+.icon-mouse:before {
+  content: "\e908";
+}
+.icon-pc:before {
+  content: "\e909";
+}
+.icon-printer:before {
+  content: "\e90a";
+}
+.icon-save-money:before {
+  content: "\e90b";
+}
+.icon-subwoofer:before {
+  content: "\e90c";
+}
+.icon-tablet:before {
+  content: "\e90d";
+}
+.icon-truck:before {
+  content: "\e90e";
+}
+.icon-tv-monitor:before {
+  content: "\e90f";
+}
